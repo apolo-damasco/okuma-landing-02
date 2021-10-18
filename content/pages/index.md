@@ -7,10 +7,10 @@ sections:
     title: >-
       Somos Okuma. Un estudio de diseño especializado en stands. Nuestra mision
       no solo es eso sino que es queso.
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: >
+      Somos una empresa de diseño y branding. Trabajamos de manera estrecha
+      contigo y tu equipo para proveer un resultado que inspire.
+      [Hablemos](/contact/).
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
