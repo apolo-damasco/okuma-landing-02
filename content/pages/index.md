@@ -17,7 +17,7 @@ sections:
     title: Proyectos
     subtitle: En que hemos estado trabajando
     projects_number: 2
-    view_all_label: Ver todos
+    view_all_label: Ver más
     view_all_url: portfolio
   - type: grid_section
     section_id: clients
