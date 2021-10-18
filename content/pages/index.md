@@ -41,7 +41,7 @@ sections:
     subtitle: Que es lo que ofrecemos
     col_number: three
     grid_items:
-      - title: La idea
+      - title: 01 / La idea
         image: images/service-1.svg
         content: |-
           - Research and insight
