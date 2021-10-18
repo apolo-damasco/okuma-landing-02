@@ -50,14 +50,14 @@ sections:
           *   Dibujitos
       - title: 02 | El diseño
         image: images/service-2.svg
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
+        content: |
+          *   Propuesta de disenyo
+          *   Revisiones de disenyo
+          *   Renders
+          *   Videos
+          *   Abrazos
+          *   Materiales
+          *   Planos
       - title: 03 | La ejecución
         image: images/service-3.svg
         content: |-
