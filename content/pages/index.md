@@ -60,15 +60,10 @@ sections:
           *   Planos
       - title: 03 | La ejecución
         image: images/service-3.svg
-        content: |-
-          - Digital product design
-          - Service design
-          - Environmental and retail design
-          - Packaging design
-          - Art direction
-          - Communication design
-          - Social media
-          - Product design
+        content: |
+          *   Vigilar a paco
+          *   Revisiones de disenyo
+          *   Contacto directo con constructores
   - type: testimonials_section
     section_id: testimonials
     title: Testimonios
