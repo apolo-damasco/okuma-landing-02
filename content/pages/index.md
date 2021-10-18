@@ -61,7 +61,7 @@ sections:
           - Concept development
           - Brand implementation and management
           - Typography
-      - title: 03 | La ejecucion
+      - title: 03 | La ejecución
         image: images/service-3.svg
         content: |-
           - Digital product design
