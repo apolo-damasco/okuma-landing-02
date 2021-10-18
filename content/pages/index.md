@@ -16,7 +16,7 @@ sections:
     layout_style: tiles
     title: Proyectos
     subtitle: En que hemos estado trabajando
-    projects_number: 2
+    projects_number: 6
     view_all_label: Ver más
     view_all_url: portfolio
   - type: grid_section
